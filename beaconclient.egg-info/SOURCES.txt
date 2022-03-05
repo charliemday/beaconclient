@@ -1,3 +1,4 @@
+README.md
 setup.py
 beaconclient.egg-info/PKG-INFO
 beaconclient.egg-info/SOURCES.txt

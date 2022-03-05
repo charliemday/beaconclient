@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 DESCRIPTION = "Package for https://getbeacon.xyz"
 LONG_DESCRIPTION = "Package for https://getbeacon.xyz - a way to notify your favourite channels when the interesting stuff happens on your server"
 
