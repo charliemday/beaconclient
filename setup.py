@@ -8,6 +8,7 @@ setup(
     name="beaconclient",
     version=VERSION,
     author="Cerwind",
+    url="https://github.com/charliemday/beaconclient",
     author_email="",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
