@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: beaconclient
-Version: 0.0.1
+Version: 0.0.3
 Summary: Package for https://getbeacon.xyz
 Home-page: https://github.com/charliemday/beaconclient
 Author: Cerwind

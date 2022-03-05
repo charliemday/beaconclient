@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = "0.0.2"
+VERSION = "0.0.3"
 DESCRIPTION = "Package for https://getbeacon.xyz"
 LONG_DESCRIPTION = "Package for https://getbeacon.xyz - a way to notify your favourite channels when the interesting stuff happens on your server"
 
@@ -14,7 +14,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=[
-        'requests==2.27.1'
+        'requests',
     ],  # add any additional packages that
     # needs to be installed along with your package
     keywords=["python", "beacon", "beaconclient", "notification"],
